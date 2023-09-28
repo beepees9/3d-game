@@ -3,7 +3,7 @@ body {
     font-weight: bolder;
 }
 
-dl {
+dl { /* DL stands for download. */
     font-size: 24;
     text-decoration: none;
     color: green;
